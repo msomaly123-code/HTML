@@ -1,0 +1,13 @@
+
+/* Payment Section */
+.fare-payment-section {
+    width: 50%;
+    margin: 0 auto;
+    background-color: #679917;
+}
+
+.payment-form {
+    display: flex;
+    flex-direction: column;
+    
+}

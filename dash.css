@@ -1,0 +1,26 @@
+/* Dashboard Section */
+.dashboard-section {
+    padding: 20px;
+    background-color: #7b51a7;
+    border-radius: 8px;
+}
+
+.dashboard-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.dashboard-section ul li {
+    margin-bottom: 10px;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
